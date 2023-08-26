@@ -14,7 +14,7 @@ I'm the developer behind browserkun! I experiment with cool ideas to extend Goog
 Google hasn't hired me so I've taken matters into my own hands 😤
 ### 🔗 Links
 * ✉️ Contact me at d24peng@uwaterloo.ca
-* [<img align="left" width="30px" src="https://icons8.com/icon/13930/linkedin" />] Connect with me at [linkedin.com/in/dennp333](https://www.linkedin.com/in/dennp333/) 
+* [<img align="left" width="30px" src="https://icons8.com/icon/13930/linkedin" />][blog] Connect with me at [linkedin.com/in/dennp333](https://www.linkedin.com/in/dennp333/) 
 * 📄 And check out my [resume](https://drive.google.com/file/d/12Itl_VDLIc7aL1f8Ls_PTJjfEVOygqUw/view?usp=sharing)! 
 <!--
 **Dennp333/Dennp333** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
