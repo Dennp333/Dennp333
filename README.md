@@ -15,7 +15,6 @@ Google hasn't hired me so I've taken matters into my own hands 😤
 ### 🔗 Links
 * ✉️ Contact me at d24peng@uwaterloo.ca
 * 📄 And check out my [resume](https://drive.google.com/file/d/12Itl_VDLIc7aL1f8Ls_PTJjfEVOygqUw/view?usp=sharing)!
-* <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Victor%20Sun-blue?style=flat-square&logo=linkedin">
 <!--
 **Dennp333/Dennp333** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
