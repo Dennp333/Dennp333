@@ -12,7 +12,7 @@ I'm the developer behind browserkun! I experiment with cool ideas to extend Goog
 * PlusPlus: A Google Docs Extension to open a code editor right inside Google Docs!
 ### Links
 * Contact me at d24peng@uwaterloo.ca
-* Connect with me at inkedin.com/in/dennp333
+* Connect with me at linkedin.com/in/dennp333
 * And check out my resume!
 <!--
 **Dennp333/Dennp333** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
