@@ -1,10 +1,10 @@
 ## Hi! I'm Dennis 👋
 ### About Me
 I'm currently...
-* @fa-graduation-cap Studying Computer Science at the University of Waterloo, graduating April 2025
+* Studying Computer Science at the University of Waterloo, graduating April 2025
 * Interested in database technologies, and all things data
 * Grinding through Designing Data-Intensive Applications by Martin Kleppmann
-* Picking up the piano again and playing a lot of badminton
+* 🎹 Picking up the piano again and playing a lot of badminton
 * Looking for a Summer 2024 internship!
 ### My Creations
 I'm the developer behind browserkun! I experiment with cool ideas to extend Google's applications, including...
