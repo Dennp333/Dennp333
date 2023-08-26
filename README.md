@@ -12,8 +12,8 @@ I'm the developer behind browserkun! I experiment with cool ideas to extend Goog
 * [PlusPlus](https://workspace.google.com/marketplace/app/plusplus/441509248986): A Google Docs Extension to open a code editor right inside Google Docs!
 ### 🔗 Links
 * ✉️ Contact me at d24peng@uwaterloo.ca
-* Connect with me at [linkedin.com/in/dennp333](https://www.linkedin.com/in/dennp333/)
-* And check out my [resume](https://drive.google.com/file/d/12Itl_VDLIc7aL1f8Ls_PTJjfEVOygqUw/view?usp=sharing)!
+* Connect with me at [linkedin.com/in/dennp333](https://www.linkedin.com/in/dennp333/) 
+* 📄 And check out my [resume](https://drive.google.com/file/d/12Itl_VDLIc7aL1f8Ls_PTJjfEVOygqUw/view?usp=sharing)!
 <!--
 **Dennp333/Dennp333** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
