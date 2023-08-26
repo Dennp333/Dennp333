@@ -8,8 +8,8 @@ I'm currently...
 * Looking for a Summer 2024 internship!
 ### My Creations
 I'm the developer behind browserkun! I experiment with cool ideas to extend Google's applications, including...
-* Backgrounds for Chrome-Chan: A Chrome Extension for setting random wallpapers for new tabs!
-* PlusPlus: A Google Docs Extension to open a code editor right inside Google Docs!
+* [Backgrounds for Chrome-Chan](https://chrome.google.com/webstore/detail/backgrounds-for-chrome-ch/pehkblbamonighkbeeblaolnpcdpegoe?hl=en&authuser=1): A Chrome Extension for setting random wallpapers for new tabs!
+* [PlusPlus](https://workspace.google.com/marketplace/app/plusplus/441509248986): A Google Docs Extension to open a code editor right inside Google Docs!
 ### Links
 * Contact me at d24peng@uwaterloo.ca
 * Connect with me at [linkedin.com/in/dennp333](https://www.linkedin.com/in/dennp333/)
