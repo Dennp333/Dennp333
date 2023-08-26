@@ -1,5 +1,7 @@
-### Hi! I'm Dennis 👋
-
+## Hi! I'm Dennis 👋
+### About Me
+I'm currently...
+* trial
 <!--
 **Dennp333/Dennp333** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
