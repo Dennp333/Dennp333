@@ -2,7 +2,7 @@
 ### 👨🏻‍💻 About Me
 I'm currently...
 * 🎓 Studying Computer Science at the University of Waterloo, graduating April 2025 
-* 🛢 Interested in database technologies, and all things data
+* 🛢 Interested in database systems, and all things data
 * 📚 Grinding through Designing Data-Intensive Applications by Martin Kleppmann
 * 🎹 Picking up the piano again and 🏸 playing a lot of badminton
 * 💼 Looking for a Summer 2024 internship!
