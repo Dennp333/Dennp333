@@ -7,7 +7,13 @@ I'm currently...
 * Picking up the piano again and playing a lot of badminton
 * Looking for a Summer 2024 internship!
 ### My Creations
-I'm the developer behind browserkun!
+I'm the developer behind browserkun! I experiment with cool ideas to extend Google's applications, including...
+* Backgrounds for Chrome-Chan: A Chrome Extension for setting random wallpapers for new tabs!
+* PlusPlus: A Google Docs Extension to open a code editor right inside Google Docs!
+### Links
+* Contact me at d24peng@uwaterloo.ca
+* Connect with me at inkedin.com/in/dennp333
+* And check out my resume!
 <!--
 **Dennp333/Dennp333** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
