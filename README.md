@@ -5,7 +5,7 @@ I'm currently...
 * 🛢 Interested in database systems, and all things data
 * 📚 Grinding through Designing Data-Intensive Applications by Martin Kleppmann
 * 🎹 Picking up the piano again and 🏸 playing a lot of badminton
-* 💼 Looking for a Summer 2024 internship!
+* 💼 About to start an internship at Databricks!
 ### 🛠 My Creations
 I'm the developer behind browserkun! I experiment with cool ideas to extend Google's applications, including...
 * [Backgrounds for Chrome-Chan](https://chrome.google.com/webstore/detail/backgrounds-for-chrome-ch/pehkblbamonighkbeeblaolnpcdpegoe?hl=en&authuser=1): A Chrome Extension for setting random wallpapers for new tabs!
@@ -14,7 +14,7 @@ I'm the developer behind browserkun! I experiment with cool ideas to extend Goog
 Google hasn't hired me so I've taken matters into my own hands 😤
 ### 🔗 Links
 * ✉️ Contact me at d24peng@uwaterloo.ca
-* 📄 And check out my [resume](https://drive.google.com/file/d/12Itl_VDLIc7aL1f8Ls_PTJjfEVOygqUw/view?usp=sharing)!
+* 📄 And check out my [resume](https://drive.google.com/file/d/12EH9rQ8hphcGzO5lkschofklRvZgIYr2/view?usp=sharing)!
 <!--
 **Dennp333/Dennp333** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
