@@ -3,7 +3,7 @@
 I'm currently...
 * 🎓 Studying Computer Science at the University of Waterloo, graduating August 2025 
 * 🛢 Interested in database systems, and all things data
-* 🏸 Playing a lot of badminton 🃏 picking up some poker
+* 🏸 Playing a lot of badminton and 🃏 picking up some poker
 * 🎌 日本語を勉強しています
 ### 🛠 My Creations
 I'm the developer behind browserkun! I experiment with cool ideas to extend Google's applications, including...
